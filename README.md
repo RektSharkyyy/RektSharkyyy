@@ -17,24 +17,36 @@
 
 <br/>
 
-<!-- About Me Section with Cool Styling -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24953c6.gif" width="500">
-  
-  ### 🌟 About Me
-  yaml
-  name: "Heshan Asmadala"
-  location: "Sri Lanka 🇱🇰"
-  role: "Undergraduate Software Engineer"
-  passion: "Machine Learning and Software Development"
-  learning: "MongoDB, Express.js, React.js, Node.js, C++, Java, C#, SQL Server"
-  motto: "Code, Learn, Innovate in AI! 🚀"
-</div>
-<!-- Connect Section --> <h2 align="center">🌐 Let's Connect & Collaborate!</h2> <div align="center"> <a href="https://linkedin.com/in/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://twitter.com/" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/> </a> </div>
-<!-- Tech Stack --> <h2 align="center">💻 Tech Stack & Tools</h2> <div align="center"> <strong>Programming Languages</strong><br/> <img src="https://skillicons.dev/icons?i=java,csharp,cpp,js&theme=dark" /><br/><br/>
-<strong>Web & Backend</strong><br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express&theme=dark" /><br/><br/>
+### 🧠 About Me  
+- 🚀 Currently exploring **AI & Machine Learning**  
+- 💻 Building projects with the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**  
+- 📚 Always learning something new — from **C++ & Java** to **SQL Server** and **C#**  
+- 🤝 Open to collaborating on **AI, Web Apps, and Open Source** projects  
+- ⚡ Fun fact: I use both **ChatGPT** and **GitHub Copilot** to supercharge my workflow  
 
+---
+
+### 🛠️ Tech Stack  
+
+#### 💻 Programming Languages  
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+#### 🌐 Web & Backend  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+
+#### ⚙️ Tools & Platforms  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-412991?logo=openai&logoColor=white)
+![Copilot](https://img.shields.io/badge/-GitHub%20Copilot-3C4E9E?logo=githubcopilot&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 <strong>Databases & Tools</strong><br/>
 <img src="https://skillicons.dev/icons?i=mongodb,git&theme=dark" />
 <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="MSSQL"/>
