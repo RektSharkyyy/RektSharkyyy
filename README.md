@@ -41,17 +41,20 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 
-#### ⚙️ Tools & Platforms  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-412991?logo=openai&logoColor=white)
-![Copilot](https://img.shields.io/badge/-GitHub%20Copilot-3C4E9E?logo=githubcopilot&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
-<strong>Databases & Tools</strong><br/>
-<img src="https://skillicons.dev/icons?i=mongodb,git&theme=dark" />
-<img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="MSSQL"/>
-<img src="https://img.icons8.com/color/48/000000/openai.png" alt="ChatGPT"/>
-<img src="https://img.icons8.com/color/48/000000/github-copilot.png" alt="Copilot"/>
+#### ⚙️ Tools & Platforms
+
+**Version Control & IDEs**  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) 
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white) 
+
+**AI & Productivity**  
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-412991?logo=openai&logoColor=white) 
+![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-3C4E9E?logo=githubcopilot&logoColor=white)
+
+**Databases**  
+<img src="https://skillicons.dev/icons?i=mongodb,sqlserver&theme=dark" alt="Databases" style="margin-right:6px"/>  
+
 
 </div>
 <!-- GitHub Stats --> <h2 align="center">📊 GitHub Analytics</h2> <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RektSharkyyy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HeshanAsmadala&theme=tokyonight&hide_border=true"/> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RektSharkyyy&layout=compact&theme=tokyonight&hide_border=true"/> </div>
