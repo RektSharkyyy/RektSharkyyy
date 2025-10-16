@@ -10,9 +10,9 @@
 
 <!-- Profile Views & Social Stats -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HeshanAsmadala&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/HeshanAsmadala?label=Followers&style=for-the-badge&color=00d9ff&labelColor=1a1a1a" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/HeshanAsmadala?label=Stars&style=for-the-badge&color=ffd700&labelColor=1a1a1a" alt="Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=RektSharkyyy&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/RektSharkyyy?label=Followers&style=for-the-badge&color=00d9ff&labelColor=1a1a1a" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/RektSharkyyy?label=Stars&style=for-the-badge&color=ffd700&labelColor=1a1a1a" alt="Stars"/>
 </div>
 
 <br/>
